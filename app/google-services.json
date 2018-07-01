@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064366047257",
+    "firebase_url": "https://estatepro-ed613.firebaseio.com",
+    "project_id": "estatepro-ed613",
+    "storage_bucket": "estatepro-ed613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064366047257:android:49018e4804834458",
+        "android_client_info": {
+          "package_name": "com.example.saadsaeed.smd_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064366047257-u0lbmh19pbjg1a15jdp53oqmbifmkvm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saadsaeed.smd_proj",
+            "certificate_hash": "7328cb6358c12bea25e4306b47d39aec15ea4f5f"
+          }
+        },
+        {
+          "client_id": "1064366047257-22q3neu2chrc073udcmmim1uvoembrkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaj0ErBKBhN7qzjJmTLqruCyuakrPUKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064366047257-22q3neu2chrc073udcmmim1uvoembrkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

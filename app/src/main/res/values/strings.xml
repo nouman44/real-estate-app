@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Estate Pro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_search">Search</string>
+    <string name="category_myAds">My Ads</string>
+    <string name="category_topAds">Top Ads</string>
+    <string name="category_account">Account</string>
+    <string name="description">Search</string>
+    <string name="facebook_app_id">1242401559224445</string>
+    <string name="fb_login_protocol_scheme">fb1242401559224445</string>
+</resources>
